@@ -1,0 +1,13 @@
+,1º,2º,3º,4º,5º
+perro,gato (0.98),programador (0.72),ladra (0.68),diseña (0.66),pelota (0.66)
+perra,gata (0.96),hizo (0.88),entro (0.82),alumna (0.78),programadora (0.77)
+gato,perro (0.98),programador (0.71),ratón (0.69),niño (0.68),hermano (0.67)
+gata,perra (0.96),entro (0.83),alumna (0.78),hizo (0.77),hermana (0.71)
+coche,periódico (0.74),rápido (0.72),lento (0.71),curioso (0.69),niño (0.68)
+parís,roma (1.00),madrid (1.00),italia (0.80),francia (0.80),españa (0.80)
+francia,españa (1.00),italia (1.00),blanco (0.84),negro (0.82),madrid (0.80)
+madrid,roma (1.00),parís (1.00),italia (0.80),francia (0.80),españa (0.80)
+rey,reina (0.89),suelo (0.82),sofá (0.82),campo (0.80),corona (0.80)
+niño,periódico (0.87),padre (0.87),alumno (0.83),niña (0.83),verano (0.78)
+café,bebe (0.83),té (0.82),camarera (0.77),come (0.76),sirve (0.73)
+mañana,estudias (0.74),subo (0.73),abro (0.73),camino (0.73),trabajas (0.72)

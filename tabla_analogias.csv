@@ -1,0 +1,11 @@
+Analogía,Esperada,Top-3 del modelo,Acierto (top-1)
+parís : francia :: madrid : ?,españa,"españa, italia, blanco",✔
+madrid : españa :: roma : ?,italia,"italia, francia, blanco",✔
+perro : perra :: gato : ?,gata,"gata, hizo, entro",✔
+niño : niña :: padre : ?,madre,"madre, cocinera, periódico",✔
+rey : reina :: padre : ?,madre,"madre, niña, cocinera",✔
+abuelo : abuela :: hermano : ?,hermana,"hermana, voleibol, maestro",✔
+médico : médica :: enfermero : ?,enfermera,"enfermera, voy, madre",✔
+perro : perra :: niño : ?,niña,"niña, profesora, ciudad",✔
+ingeniero : ingeniera :: programador : ?,programadora,"programadora, perra, alumna",✔
+el : la :: perro : ?,perra,"perra, gata, cacao",✔
